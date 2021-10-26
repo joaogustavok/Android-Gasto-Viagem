@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gasto de viagem</string>
+    <string name="distancia">Distancia</string>
+    <string name="distance">Distance</string>
+    <string name="total_of_kms">Total of Kms</string>
+    <string name="price">Price</string>
+    <string name="total_price">Total Price</string>
+    <string name="km_per_liter">Km per Liter</string>
+    <string name="autonomy">Autonomy</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_rs">R$ 0</string>
+    <string name="fill_all_fields">Fill all fields</string>
+    <string name="enter_valid_values">Enter valid values</string>
+</resources>
